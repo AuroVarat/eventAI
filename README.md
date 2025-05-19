@@ -1,4 +1,4 @@
-# TaskManagerBot
+#  eventAI
 
 eventAI is a bot that helps users manage tasks and schedule events effortlessly. Powered by AI, it extracts event details from natural language messages, generates `.ics` calendar files, and integrates seamlessly with calendar apps.
 
